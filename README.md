@@ -7,7 +7,7 @@ Functionality:
 5. Details of the product
 
 API:
-   https://crud.teamrabbil.com/api/v1/CreateProduct \n
+   https://crud.teamrabbil.com/api/v1/CreateProduct  
    https://crud.teamrabbil.com/api/v1/ReadProduct
    https://crud.teamrabbil.com/api/v1/DeleteProduct/
    https://crud.teamrabbil.com/api/v1/UpdateProduct/
